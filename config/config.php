@@ -1,7 +1,8 @@
-$db_config = [
-    'db_user' => 'minhaz',
-    'db_pass' => '1',
-    'db_host' => '127.0.0.1',
-    'db_name' => 'apex_crm',
-    'db_prefix' => 'apex_',
+<?php
+return [
+    'dbuser' => 'minhaz',
+    'dbpass' => '1',
+    'dbhost' => '127.0.0.1',
+    'dbname' => 'apex_crm',
+    'dbprefix' => 'apex_',
 ];
